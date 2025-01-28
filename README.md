@@ -1,4 +1,4 @@
-# Explorando a Linguagem Go 🚀  
+# Explorando a Linguagem Go 
 
 Bem-vindo ao meu repositório de estudos em Go! Aqui estou registrando minha jornada com essa linguagem fascinante, na qual quero me aprofundar cada vez mais.  
 
