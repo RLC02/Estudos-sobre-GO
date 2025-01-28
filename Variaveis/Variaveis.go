@@ -5,7 +5,7 @@ import (
 )
 
 //Abrangecia de nivel de pacote.
-//A variável aplha não pode ser acessada pelo mesmo nivel de pacote.
+//A variável aplha não pode ser acessada por outro nivel de pacote.
 var aplha = "Girafa"
 
 func main(){
@@ -45,7 +45,8 @@ func main(){
 }
 
 func teste(){
-		//fmt.Println(k) fora do codeblock essa variavel não é acessivel.
+
+		//fmt.Println(w) fora do codeblock dela essa variavel não é acessivel.
 
 		//Essa variavel esta sendo declarada no nivel de pacote.
 		fmt.Println(aplha)
