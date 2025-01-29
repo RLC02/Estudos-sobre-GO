@@ -1,4 +1,4 @@
-# Explorando a Linguagem Go 🚀  
+# Explorando a Linguagem Go 
 
 Bem-vindo ao meu repositório de estudos em Go! Aqui estou registrando minha jornada com essa linguagem fascinante, na qual quero me aprofundar cada vez mais.  
 
@@ -9,5 +9,7 @@ Vou começar com os conceitos básicos e, aos poucos, avançar para tópicos mai
 ## Feedback é sempre bem-vindo!   
 
 Se você tiver qualquer sugestão, dica ou feedback, ficarei super grato! Isso me ajuda a aprender ainda mais e, quem sabe, podemos trocar ideias sobre Go.  
+
+Utilizando para estudos (https://www.youtube.com/@AprendaGo)
 
 Obrigado por passar por aqui! 
