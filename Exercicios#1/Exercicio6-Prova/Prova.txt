@@ -1,0 +1,20 @@
+Prova realizada = https://docs.google.com/forms/d/e/1FAIpQLScmMK7rjqj9SF2qTaN4Vg6mQX19YWqop7WRSfHjxZT-xbqdVQ/viewform?pli=1
+
+30/32
+
+Erros
+
+Qual o caractere que permite "jogar fora" um valor? 
+Ou seja, qual caractere permite que você diga ao programa 
+que não vai utilizar o valor retornado por uma função?
+1 /Errada
+# /Errada
+@ /Errada
+_ /Correta
+$ /Errada
+Isso é pegadinha /Errada
+
+
+Uma palavra-chave somente pode ser usada para seu propósito específico e para declarar variáveis.
+Verdade /Errada
+Mentira /Correta
