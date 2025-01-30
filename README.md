@@ -1,6 +1,6 @@
-# Explorando a Linguagem Go 
+# Explorando a Linguagem Go <img src="https://i.imgur.com/3PMJrYc.png" width="200" height="200">
 
-Bem-vindo ao meu repositório de estudos em Go! Aqui estou registrando minha jornada com essa linguagem fascinante, na qual quero me aprofundar cada vez mais.  
+Bem-vindo ao meu repositório de estudos em Go! Aqui estou registrando minha jornada com essa linguagem fascinante, na qual quero me aprofundar cada vez mais.   
 
 ## O que você vai encontrar?  
 
