@@ -28,7 +28,7 @@ Para rodar os códigos deste repositório, você precisará ter o Go instalado n
 
 ## 📌 Recursos Utilizados
 
-- 🎥 Canal Aprenda Go no YouTube
+- 🎥 https://www.youtube.com/@AprendaGo
 
 - 📖 Documentação Oficial do Go
 
