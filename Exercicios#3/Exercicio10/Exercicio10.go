@@ -5,11 +5,11 @@ import "fmt"
 
 func main(){
 
-	fmt.Println(true && true)
+	//fmt.Println(true && true)
 	//resultado: true
 	fmt.Println(true && false)
 	//resultado: false
-	fmt.Println(true || true)
+	//fmt.Println(true || true)
 	//resultado: true
 	fmt.Println(true || false)
 	//resultado: true
