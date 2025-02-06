@@ -4,8 +4,6 @@ import(
 	"fmt"
 )
 
-
-
 func main(){
 
 	umaslice := []int{1,2,3,4}

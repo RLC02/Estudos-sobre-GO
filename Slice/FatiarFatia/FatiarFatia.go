@@ -4,8 +4,6 @@ import(
 	"fmt"
 )
 
-
-
 func main(){
 //
 	sabores := []string{"queijo", "calabresa", "portuguesa", "marguerita", "atum"}
